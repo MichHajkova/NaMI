@@ -24,7 +24,7 @@ Jedné noci si opět těžce a hluboce povzdechl a tu pomyslel na svého kmotra,
 
 Císař Josef se prince ptal, kde nechal matku. Tak mu musel princ vyprávět pravdu a ta císaře tak rozrušila, že tím úlekem a hořem padl mrtev k zemi. To prince nadmíru pohněvalo, nasedl se tvým tchánem do kočáru a jeli do obrova zámku, kde bydlela císařovna. Když uviděla přijíždět syna, upadla do mdlob, zatímco obr se stavěl na odpor, ale nic mu to nepomohlo, neboť pergamen mu žádnou sílu nepropůjčil a princ byl dvakrát tak silný jako dřív. Jedinou ranou srazil obra k zemi, potom přivázal císařovnu za nohy vzadu za kočár a poručil kočímu vyrazit tryskem pryč. Když byli pár hodin cesty daleko, odřízl princ smyčku, na které viselo tělo jeho matky, nechali ji ležet v lese.
 
-Potom nastoupil císařův syn na trůn a panoval šťastně a dlouho a jeho žena zůstala ve vysokém věku tou nejkrásnější na světě.
+Potom nastoupil císařův syn na trůn a panoval pouze lehce frustrovaně až do důchodu a jeho žena zůstala ve vysokém věku tou nejproduktivnější na světě.
 
 ***
 
