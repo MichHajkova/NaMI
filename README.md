@@ -1,3 +1,3 @@
 # NaMI
 
-#Repozitï¿½ï¿½ zaloï¿½en za ï¿½ï¿½elem sdï¿½lenï¿½ ï¿½kolï¿½ a projektï¿½ v pï¿½edmï¿½tu Nï¿½stroje a moï¿½nosti internetu 2017.
+#Repozitáø založen za úèelem sdílení úkolù a projektù v pøedmìtu Nástroje a možnosti internetu 2017.
