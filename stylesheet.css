@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  body {
   
   background:url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/purty_wood.png);
@@ -42,4 +43,50 @@ h2{
 footer{
   font-size:60px;
   float: right;
+=======
+ body {
+  
+  background:url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/purty_wood.png);
+  text-align: block;
+  border: 5px solid brown;
+   margin: 1cm 4cm 1cm 4cm;
+   color: rgb(102,0,0);
+  
+}
+
+header {
+  font-family:Trebuchet;
+  text-align: center;
+  text-decoration:underline;
+  font-style: oblique;
+  font-weight: bold;
+
+}
+
+p{
+  
+  font-family:verdana;
+  line-height: 200%;
+  padding: 1cm 2cm 1cm 2cm;
+
+}
+}
+
+h1{
+  font-family:Calibri;
+  text-transform: capitalize;
+  text-justify: inter-word;
+
+}
+
+h2{
+  text-align: center;
+
+}
+
+
+footer{
+  font-size:60px;
+  float: right;
+>>>>>>> 5d007b76ac68955235c3eff147e7e244dc8e913b
 }
